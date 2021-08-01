@@ -1,6 +1,6 @@
 # reimagined-fortnight
 
-- QR codes. These are faster to scan. Consider Level Q or H error correction.
+- [ ] QR codes. These may be faster to scan (particularly with a mobile phone app). Consider Level Q or H error correction.
 
 Product item numbers are very short.
 
